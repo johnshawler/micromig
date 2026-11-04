@@ -1,0 +1,63 @@
+{
+  "name": "Micro MIG",
+  "new_project": false,
+  "platform": {
+    "id": "debian",
+    "version_id": "13",
+    "architecture": "amd64"
+  },
+  "package_snapshot": "20260925T181338Z",
+  "snapshot_status": "proposed existing configured Debian snapshot; index retrieval blocked by proxy HTTP 403",
+  "pinned_packages": {
+    "fs-uae": "3.1.66-2+b1",
+    "atari800": "5.2.0-2"
+  },
+  "build_and_capture_packages": [
+    "build-essential",
+    "python3",
+    "make",
+    "pkg-config",
+    "autoconf",
+    "automake",
+    "libtool",
+    "libsdl2-dev",
+    "libpng-dev",
+    "zlib1g-dev",
+    "binutils-m68k-linux-gnu",
+    "cc65",
+    "xvfb",
+    "xauth",
+    "xdotool",
+    "mesa-utils",
+    "libgl1-mesa-dri",
+    "libopenal1",
+    "ca-certificates",
+    "curl",
+    "unzip",
+    "ffmpeg"
+  ],
+  "build_dependencies_lock_status": "versions constrained by required fixed snapshot; full resolved package lock cannot be produced until installation succeeds",
+  "upstream_atari800_alternative": {
+    "tag": "ATARI800_7_2_1",
+    "commit": "63a381884175e3cbfc745ff00dfb3d70d928eb50",
+    "source_sha256": "b05b7b0932a19754eef42839aa0f04aa8a5ec1e55f51054ef3f802d83c7362f7",
+    "installed": false
+  },
+  "target": {
+    "cpu": "68000",
+    "chipset": "OCS",
+    "video": "PAL",
+    "chip_kib": 512,
+    "slow_kib": 0,
+    "fast_kib": 0,
+    "confirmed_details": [
+      "OCS",
+      "512 KB RAM"
+    ],
+    "remaining_details_provisional": true
+  },
+  "rom_policy": "Publish no proprietary ROMs. User supplies private A500 Kickstart at task runtime; source tests may explicitly select included licensed Altirra OS when supported.",
+  "network_policy": "Use configured allowed package sources only. Do not replace proxy, bypass restrictions, or disable signatures. Required snapshot/main/contrib access must be resolved in environment settings.",
+  "publication_status": "Source repository only; no published Codex environment",
+  "previous_name": "Mini Mig Harness"
+}

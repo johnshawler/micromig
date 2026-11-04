@@ -1,0 +1,142 @@
+[
+  {
+    "repository": "atari800/atari800",
+    "commit": "98cc2dc749867c9c7317a0271ba062a6c797f886",
+    "path": "sources/atari800/atari800/COPYING",
+    "url": "https://raw.githubusercontent.com/atari800/atari800/98cc2dc749867c9c7317a0271ba062a6c797f886/COPYING",
+    "executed": false,
+    "license": "GPL-2.0-or-later (file headers; COPYING retained)",
+    "bytes": 18011,
+    "sha256": "e6d6a009505e345fe949e1310334fcb0747f28dae2856759de102ab66b722cb4"
+  },
+  {
+    "repository": "atari800/atari800",
+    "commit": "98cc2dc749867c9c7317a0271ba062a6c797f886",
+    "path": "sources/atari800/atari800/src/antic.c",
+    "url": "https://raw.githubusercontent.com/atari800/atari800/98cc2dc749867c9c7317a0271ba062a6c797f886/src/antic.c",
+    "executed": false,
+    "license": "GPL-2.0-or-later (file headers; COPYING retained)",
+    "bytes": 137682,
+    "sha256": "b9c8982d6552734c373f03c44762b31e11300250bba490abe17ee2c428a80d1a"
+  },
+  {
+    "repository": "atari800/atari800",
+    "commit": "98cc2dc749867c9c7317a0271ba062a6c797f886",
+    "path": "sources/atari800/atari800/src/gtia.c",
+    "url": "https://raw.githubusercontent.com/atari800/atari800/98cc2dc749867c9c7317a0271ba062a6c797f886/src/gtia.c",
+    "executed": false,
+    "license": "GPL-2.0-or-later (file headers; COPYING retained)",
+    "bytes": 44808,
+    "sha256": "d932436b6a05fcf9df83fe872a141e0b2da90704035d3d041e8ae63f15c2d09f"
+  },
+  {
+    "repository": "atari800/atari800",
+    "commit": "98cc2dc749867c9c7317a0271ba062a6c797f886",
+    "path": "sources/atari800/atari800/src/pokey.c",
+    "url": "https://raw.githubusercontent.com/atari800/atari800/98cc2dc749867c9c7317a0271ba062a6c797f886/src/pokey.c",
+    "executed": false,
+    "license": "GPL-2.0-or-later (file headers; COPYING retained)",
+    "bytes": 26097,
+    "sha256": "e7ab22826c861596bd995a662d7e42db47d02b74d97d4642b733be94ad2f5d84"
+  },
+  {
+    "repository": "atari800/atari800",
+    "commit": "98cc2dc749867c9c7317a0271ba062a6c797f886",
+    "path": "sources/atari800/atari800/src/binload.c",
+    "url": "https://raw.githubusercontent.com/atari800/atari800/98cc2dc749867c9c7317a0271ba062a6c797f886/src/binload.c",
+    "executed": false,
+    "license": "GPL-2.0-or-later (file headers; COPYING retained)",
+    "bytes": 6400,
+    "sha256": "bc82a8586894ce3e86c7c0956f99cda65c9b13fc6ea9c58704b9c3845687e1a0"
+  },
+  {
+    "repository": "atari800/atari800",
+    "commit": "98cc2dc749867c9c7317a0271ba062a6c797f886",
+    "path": "sources/atari800/atari800/src/afile.c",
+    "url": "https://raw.githubusercontent.com/atari800/atari800/98cc2dc749867c9c7317a0271ba062a6c797f886/src/afile.c",
+    "executed": false,
+    "license": "GPL-2.0-or-later (file headers; COPYING retained)",
+    "bytes": 5715,
+    "sha256": "1059b9b99d7ddb5b8d5c63d1910a3cd265142d94dc6b7cb0c747447be78ab400"
+  },
+  {
+    "repository": "mnaberez/py65",
+    "commit": "f85723378a852b62d2580aec2eb5d7bd5d4111f6",
+    "path": "sources/mnaberez/py65/LICENSE.txt",
+    "url": "https://raw.githubusercontent.com/mnaberez/py65/f85723378a852b62d2580aec2eb5d7bd5d4111f6/LICENSE.txt",
+    "executed": false,
+    "license": "BSD-3-Clause (LICENSE.txt retained)",
+    "bytes": 1537,
+    "sha256": "82242fe6c832b58a917269754bc6c0f1ec02993802e78dc897fe9b365605a08b"
+  },
+  {
+    "repository": "mnaberez/py65",
+    "commit": "f85723378a852b62d2580aec2eb5d7bd5d4111f6",
+    "path": "sources/mnaberez/py65/py65/devices/mpu6502.py",
+    "url": "https://raw.githubusercontent.com/mnaberez/py65/f85723378a852b62d2580aec2eb5d7bd5d4111f6/py65/devices/mpu6502.py",
+    "executed": false,
+    "license": "BSD-3-Clause (LICENSE.txt retained)",
+    "bytes": 35791,
+    "sha256": "15d93835b4f279b702270d9a0b417938291347ec57cc12d9e0307cd344d381fe"
+  },
+  {
+    "repository": "atari800/atari800",
+    "commit": "98cc2dc749867c9c7317a0271ba062a6c797f886",
+    "path": "sources/atari800/atari800/src/sio.c",
+    "url": "https://raw.githubusercontent.com/atari800/atari800/98cc2dc749867c9c7317a0271ba062a6c797f886/src/sio.c",
+    "executed": false,
+    "license": "GPL-2.0-or-later (file headers; COPYING retained)",
+    "bytes": 57028,
+    "sha256": "29ce4e4ae0f483ddc2007d1da10a3537bb7acef13ee20b7decd5731a213ab167"
+  },
+  {
+    "repository": "atari800/atari800",
+    "commit": "98cc2dc749867c9c7317a0271ba062a6c797f886",
+    "path": "sources/atari800/atari800/DOC/INSTALL",
+    "url": "https://raw.githubusercontent.com/atari800/atari800/98cc2dc749867c9c7317a0271ba062a6c797f886/DOC/INSTALL",
+    "executed": false,
+    "license": "GPL-2.0-or-later; COPYING retained",
+    "bytes": 10166,
+    "sha256": "ae0c31d4cf7f491f61d7c7751666d544b134d0cdc1a6f68d3db7175124ea8408"
+  },
+  {
+    "repository": "atari800/atari800",
+    "commit": "98cc2dc749867c9c7317a0271ba062a6c797f886",
+    "path": "sources/atari800/atari800/configure.ac",
+    "url": "https://raw.githubusercontent.com/atari800/atari800/98cc2dc749867c9c7317a0271ba062a6c797f886/configure.ac",
+    "executed": false,
+    "license": "GPL-2.0-or-later; COPYING retained",
+    "bytes": 64416,
+    "sha256": "799712f3ce8d3ec817701a97cbabae772c5686759f2ebf74bbbd83646270ae85"
+  },
+  {
+    "repository": "atari800/atari800",
+    "commit": "98cc2dc749867c9c7317a0271ba062a6c797f886",
+    "path": "sources/atari800/atari800/src/Makefile.am",
+    "url": "https://raw.githubusercontent.com/atari800/atari800/98cc2dc749867c9c7317a0271ba062a6c797f886/src/Makefile.am",
+    "executed": false,
+    "license": "GPL-2.0-or-later; COPYING retained",
+    "bytes": 12032,
+    "sha256": "124ef0dc347f8891461629e0405f5c74c4dd4c3c6ce8541ea5378af1d5368b31"
+  },
+  {
+    "repository": "atari800/atari800",
+    "commit": "98cc2dc749867c9c7317a0271ba062a6c797f886",
+    "path": "sources/atari800/atari800/emuos/README",
+    "url": "https://raw.githubusercontent.com/atari800/atari800/98cc2dc749867c9c7317a0271ba062a6c797f886/emuos/README",
+    "executed": false,
+    "license": "See emuos/LICENSE; preserve notices",
+    "bytes": 615,
+    "sha256": "2eddd41230db42f08e8b3699bbd521e73df754673555010930289fbfb08529ea"
+  },
+  {
+    "repository": "atari800/atari800",
+    "commit": "98cc2dc749867c9c7317a0271ba062a6c797f886",
+    "path": "sources/atari800/atari800/emuos/LICENSE",
+    "url": "https://raw.githubusercontent.com/atari800/atari800/98cc2dc749867c9c7317a0271ba062a6c797f886/emuos/LICENSE",
+    "executed": false,
+    "license": "See emuos/LICENSE; preserve notices",
+    "bytes": 318,
+    "sha256": "fa11fc35343e33f0628ee08346dc01344deaae4c99295184956842f8d523e344"
+  }
+]

@@ -1,0 +1,15 @@
+build/
+evidence/*
+!evidence/.gitkeep
+__pycache__/
+*.py[cod]
+*.rom
+*.adf
+*.hdf
+*.xex
+*.deb
+*.AppImage
+*.exe
+.env
+.env.*
+.DS_Store
